@@ -4,5 +4,5 @@ def using_times
 end
 end
 
-
+print using_times
 
